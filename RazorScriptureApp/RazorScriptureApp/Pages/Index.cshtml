@@ -8,11 +8,11 @@
 }
 
 <head>
-    <link href="https://fonts.googleapis.com/css?family=Rokkitt" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
 
     <style>
         h2, td, th {
-            font-family: 'Rokkitt', serif;
+            font-family: 'Oswald', san-serif;
             
         }
 
@@ -30,7 +30,7 @@
             <select asp-for="ScriptureBook" asp-items="Model.Books">
                 <option value="">All</option>
             </select>
-            Search by Book or by keyword in the notes field: <input type="text" name="SearchString">
+            Search by Book or by notes keyword: <input type="text" name="SearchString">
             <input type="submit" value="Filter" />
 
         </p>

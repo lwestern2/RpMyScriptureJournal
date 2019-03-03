@@ -21,19 +21,19 @@ namespace RazorScriptureApp.Models
                 context.Scripture.AddRange(
                     new Scripture
                     {
-                        Book = "Nefi",
+                        Book = "Nephi",
                         Chapter = 2,
-                        Verse = 3,
-                        Note= "Good",
-                        Date = DateTime.Parse("1989-2-12"),
+                        Verse = 15,
+                        Note= "Sunday school",
+                        Date = DateTime.Parse("1998-3-5"),
                        
                     },
 
                      new Scripture
                      {
                          Book = "Lehi",
-                         Chapter = 2,
-                         Verse = 3,
+                         Chapter = 7,
+                         Verse = 10,
                          Note = "Good",
                          Date = DateTime.Parse("1989-2-12"),
 
@@ -42,10 +42,10 @@ namespace RazorScriptureApp.Models
                      new Scripture
                      {
                          Book = "Jacob",
-                         Chapter = 2,
-                         Verse = 3,
-                         Note = "Good",
-                         Date = DateTime.Parse("1989-2-12"),
+                         Chapter = 1,
+                         Verse = 19,
+                         Note = "Something",
+                         Date = DateTime.Parse("2001-5-19"),
 
                      }
 
