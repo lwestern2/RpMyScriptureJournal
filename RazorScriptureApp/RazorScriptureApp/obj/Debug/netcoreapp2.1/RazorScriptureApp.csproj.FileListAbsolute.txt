@@ -51,7 +51,6 @@ C:\Users\leahb\vs c#\My-Scripture-Journal\RazorScriptureApp\RazorScriptureApp\ob
 C:\Users\leahb\vs c#\My-Scripture-Journal\RazorScriptureApp\RazorScriptureApp\obj\Debug\netcoreapp2.1\RazorScriptureApp.TagHelpers.output.cache
 C:\Users\leahb\vs c#\My-Scripture-Journal\RazorScriptureApp\RazorScriptureApp\obj\Debug\netcoreapp2.1\RazorScriptureApp.RazorCoreGenerate.cache
 C:\Users\leahb\vs c#\My-Scripture-Journal\RazorScriptureApp\RazorScriptureApp\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
-C:\Users\leahb\vs c#\My-Scripture-Journal\RazorScriptureApp\RazorScriptureApp\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
 C:\Users\leahb\vs c#\My-Scripture-Journal\RazorScriptureApp\RazorScriptureApp\obj\Debug\netcoreapp2.1\Razor\Pages\Create.g.cshtml.cs
 C:\Users\leahb\vs c#\My-Scripture-Journal\RazorScriptureApp\RazorScriptureApp\obj\Debug\netcoreapp2.1\Razor\Pages\Delete.g.cshtml.cs
 C:\Users\leahb\vs c#\My-Scripture-Journal\RazorScriptureApp\RazorScriptureApp\obj\Debug\netcoreapp2.1\Razor\Pages\Details.g.cshtml.cs

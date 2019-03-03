@@ -12492,9 +12492,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leahb\\vs c#\\My-Scripture-Journal\\RazorScriptureApp\\RazorScriptureApp\\RazorScriptureApp.csproj",
-      "projectName": "RazorScriptureApp",
-      "projectPath": "C:\\Users\\leahb\\vs c#\\My-Scripture-Journal\\RazorScriptureApp\\RazorScriptureApp\\RazorScriptureApp.csproj",
+      "projectUniqueName": "C:\\Users\\leahb\\vs c#\\My-Scripture-Journal\\RazorScriptureApp\\RazorScriptureApp\\RazorScriptureJournal.csproj",
+      "projectName": "RazorScriptureJournal",
+      "projectPath": "C:\\Users\\leahb\\vs c#\\My-Scripture-Journal\\RazorScriptureApp\\RazorScriptureApp\\RazorScriptureJournal.csproj",
       "packagesPath": "C:\\Users\\leahb\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\leahb\\vs c#\\My-Scripture-Journal\\RazorScriptureApp\\RazorScriptureApp\\obj\\",
       "projectStyle": "PackageReference",
